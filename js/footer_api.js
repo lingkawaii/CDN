@@ -1,0 +1,1 @@
+document.querySelector("#page-header").attributes.style.value = "background-image: url"+ "(" + list_img + ")"
